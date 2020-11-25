@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(84, 84, 170);
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+button{
+    margin-top: 20px;
+}
